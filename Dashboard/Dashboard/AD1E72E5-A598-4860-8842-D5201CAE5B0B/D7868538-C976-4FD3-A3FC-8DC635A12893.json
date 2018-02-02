@@ -33,13 +33,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DE20D61C-1F78-498E-B5B6-7A3202140B4A",
-      "overrideName": "AA816123-1A5E-4E4C-8098-2B14EBDF626E_stringValue",
+      "do_objectID": "A9A08D30-676B-40D9-AF97-3DA2DD8A89B1",
+      "overrideName": "4E6AEF94-1C77-49D6-B50F-54D5A90054AF_stringValue",
       "value": "Articles"
     }
   ],
   "overrides": {
-    "AA816123-1A5E-4E4C-8098-2B14EBDF626E": "Articles"
+    "4E6AEF94-1C77-49D6-B50F-54D5A90054AF": "Articles"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,6 +52,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "9AF46599-01D9-41D3-8CF1-38EB68D386E8",
+  "symbolID": "72058D22-BEFC-496D-A679-6ACC885AF894",
   "verticalSpacing": 0
 }
