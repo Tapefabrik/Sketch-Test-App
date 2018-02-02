@@ -129,8 +129,8 @@
       "id": "0BF1D69F-8A7A-44CD-A07F-3B3D3696C9A4"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Symbols",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
